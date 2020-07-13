@@ -1,0 +1,17 @@
+{
+    "name": "hmahajan/composer-program",
+    "description": "Composer Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hmahajan",
+            "email": "hmahajan@xento.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"hmahajan\\ComposerTest\\": "src/"}
+    },
+    "require": {}
+}
